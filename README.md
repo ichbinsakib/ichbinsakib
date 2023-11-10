@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sakib Ahamed</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<h3 align="center">Architecting Digital Elegance: Sakib Ahamed, a Passionate Frontend Developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ichbinsakib&label=Profile%20views&color=0e75b6&style=flat" alt="ichbinsakib" /> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio Website**
+- 🔭 I’m currently working on **developing a manufactuing company website**
 
 - 🌱 I’m currently learning **Javascript, React.js**
 
@@ -15,10 +13,11 @@
 
 - 📫 How to reach me **ichbinsakib@gmail.com**
 
+- ⚡ Fun fact **an avid amateur magician!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sakibahamed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sakibahamed/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sakib-ahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sakib-ahamed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sakibahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakibahamed" height="30" width="40" /></a>
 <a href="https://fb.com/ichbinsakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ichbinsakib" height="30" width="40" /></a>
 </p>
 
